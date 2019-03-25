@@ -1,3 +1,6 @@
 # Python_Assignment_4
-## program which contains one 'lambda' function
+1 program which contains one 'lambda' function.
+
+2 program which contains filter(), map() and reduce() in it.
+
 
